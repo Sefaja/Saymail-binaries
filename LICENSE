@@ -1,0 +1,27 @@
+Saymail — Proprietary Software License
+
+Copyright (c) 2026 Sefaja. All rights reserved.
+
+This repository contains the compiled, distributable binaries of Saymail, a
+proprietary commercial application. The binaries are provided solely to enable
+end users to download and install Saymail and to allow the Saymail desktop
+application to perform automatic updates.
+
+No license or right is granted, expressly or by implication, to copy,
+redistribute, mirror, host, sell, rent, lease, sublicense, reverse engineer,
+decompile, disassemble, modify, or create derivative works from these binaries,
+except to the extent such a restriction is expressly prohibited by applicable
+law.
+
+Use of Saymail is governed by the Saymail Terms of Service / End User License
+Agreement available at https://saymail.eu/en/legal/terms. By downloading,
+installing, or using these binaries, you agree to those terms.
+
+Saymail is a product of Sefaja. For inquiries, see https://saymail.eu.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
